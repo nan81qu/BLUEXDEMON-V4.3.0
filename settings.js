@@ -27,8 +27,8 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
+global.bank = "4917636093354"
+global.bankname = "4917636093354"
 global.accnumber = "4917636093354"
 global.language = "en"
 global.sessionName = "session"
