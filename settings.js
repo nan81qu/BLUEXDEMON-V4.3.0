@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "4917636093354"
+global.pairingNumber = "17736546078"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = ["4917636093354"]
+global.botNumber = ["17736546078"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -27,28 +27,28 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "4917636093354"
-global.bankname = "4917636093354"
-global.accnumber = "4917636093354"
-global.language = "en"
+global.bank = "Opay"
+global.bankname = "BLUE"
+global.accnumber = "7041039367"
+global.language = "de"
 global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
-global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.newsletterName = "NORAGE 𝐗 𝐙AKUTO 𝐕𝟒"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 SATANV"
+global.ownerName = "SATANV"
+global.syt = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
+global.sgc = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
+global.sig = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
+global.web = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
 //setbot
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
-global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
+global.botName = "NORAGE 𝐗 ZAKUTO 𝐕𝟒" 
+global.wm = "NORAGE 𝐗 ZAKUTO 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '🔆'
+global.themeemoji = ''
 global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
 "https://wallpapercave.com/wp/wp12456894.jpg"]
@@ -57,14 +57,14 @@ global.multi = false
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
-global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
+global.copyright = `NORAGE 𝐗 𝐙AKUTO`
 global.baileysVersion = `${themeemoji}Baileys ${version}`
 global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
-global.authorName = "BLUE DEMON"
+global.packName = `NORAGE 𝐗 ZAKUTO`
+global.authorName = "SATANV"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
@@ -90,10 +90,10 @@ global.gcounti = {
 
 
 let d = new Date();
-      let locale = "en";
-      let gmt = new Date(0).getTime() - new Date("1 January 2024").getTime();
+      let locale = "de";
+      let gmt = new Date(0).getTime() - new Date("1 Januar 2025").getTime();
       let week = d.toLocaleDateString(locale, { weekday: "long" });
-      const calender = d.toLocaleDateString("en", {
+      const calender = d.toLocaleDateString("de", {
       day: "numeric",
       month: "long",
       year: "numeric",
