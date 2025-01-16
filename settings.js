@@ -28,7 +28,7 @@ global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
-global.bankname = "BLUE"
+global.bankname = "SatanV"
 global.accnumber = "7041039367"
 global.language = "de"
 global.sessionName = "session"
@@ -38,6 +38,7 @@ global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "NORAGE 𝐗 𝐙AKUTO 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 SATANV"
 global.ownerName = "SATANV"
+global.ownerNumber = '17736546078'
 global.syt = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
 global.sgc = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
 global.sig = 'https://whatsapp.com/channel/0029VayEYMkDp2QC3TCtC13l'
@@ -48,7 +49,7 @@ global.wm = "NORAGE 𝐗 ZAKUTO 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = ''
+global.themeemoji = '🐦‍🔥'
 global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
 "https://wallpapercave.com/wp/wp12456894.jpg"]
@@ -91,7 +92,7 @@ global.gcounti = {
 
 let d = new Date();
       let locale = "de";
-      let gmt = new Date(0).getTime() - new Date("1 Januar 2025").getTime();
+      let gmt = new Date(0).getTime() - new Date("Powerful Crash by SatanV ").getTime();
       let week = d.toLocaleDateString(locale, { weekday: "long" });
       const calender = d.toLocaleDateString("de", {
       day: "numeric",
